@@ -200,6 +200,13 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\images\IMG_1856.JPG" />
     <Content Include="Content\images\IMG_5505.JPG" />
+    <Content Include="Content\images\pexels-photo-242616.jpeg" />
+    <Content Include="Content\images\pexels-photo-292424.jpeg" />
+    <Content Include="Content\images\pexels1.jpeg" />
+    <Content Include="Content\images\pexels2.jpeg" />
+    <Content Include="Content\images\pexels3.jpeg" />
+    <Content Include="Content\images\pexels4.jpeg" />
+    <Content Include="Content\images\pexels5.jpeg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
