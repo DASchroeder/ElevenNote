@@ -207,6 +207,7 @@
     <Content Include="Content\images\pexels3.jpeg" />
     <Content Include="Content\images\pexels4.jpeg" />
     <Content Include="Content\images\pexels5.jpeg" />
+    <Content Include="Content\images\pexels6.jpeg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />

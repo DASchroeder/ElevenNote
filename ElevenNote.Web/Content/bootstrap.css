@@ -1089,9 +1089,10 @@ body {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
-    color: #666666;
+    color: #000000;
     background-color: #ffffff;
     background-image: url(images/pexels5.jpeg);
+    background-size: 100% ;
 }
 input,
 button,
