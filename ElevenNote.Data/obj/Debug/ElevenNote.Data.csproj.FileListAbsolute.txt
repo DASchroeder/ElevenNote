@@ -1,0 +1,12 @@
+C:\dev\ElevenFifty\DaveFancherJuly2016ElevenNote\ElevenNote\bin\Debug\ElevenNote.Data.dll.config
+C:\dev\ElevenFifty\DaveFancherJuly2016ElevenNote\ElevenNote\bin\Debug\ElevenNote.Data.dll
+C:\dev\ElevenFifty\DaveFancherJuly2016ElevenNote\ElevenNote\bin\Debug\ElevenNote.Data.pdb
+C:\dev\ElevenFifty\DaveFancherJuly2016ElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojResolveAssemblyReference.cache
+C:\dev\ElevenFifty\DaveFancherJuly2016ElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\dev\ElevenFifty\DaveFancherJuly2016ElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\Daniel\Desktop\ElevenNote\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\Daniel\Desktop\ElevenNote\bin\Debug\ElevenNote.Data.dll
+C:\Users\Daniel\Desktop\ElevenNote\bin\Debug\ElevenNote.Data.pdb
+C:\Users\Daniel\Desktop\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\Users\Daniel\Desktop\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
